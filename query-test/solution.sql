@@ -1,5 +1,5 @@
 -- membuat database
-CREATE DATABASE contoh_database;
+CREATE DATABASE ultravocher_db;
 
 -- Membuat Tabel nama
 CREATE TABLE nama (
